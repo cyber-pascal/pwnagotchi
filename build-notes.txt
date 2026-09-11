@@ -1,0 +1,15 @@
+Pwnagotchi:
+used Jayofelony and WPA2 for this project
+1. https://github.com/jayofelony/pwnagotchi/wiki
+2. https://pwnagotchi.org/
+3. https://pwnstore.org/pwnconfig.html (WPA2) easy config
+4. https://pwnstore.org/troubleshoot.html (WPA2) helped a lot
+
+Hardware:
+1. Raspberry Pi Zero 2 WH, 4x 1 GHz, 512 MB RAM, WLAN, BT
+2. Battery: PiSugar 3 1200mAh Raspberry Pi Zero Battery
+3. Display: Waveshare 2.13" 250×122 ePaper Display HAT für Raspberry Pi
+4. Micro SD: SAMSUNG EVO Plus (2024), Micro-SD Speicherkarte, 128 GB, 160 MB/s
+5. Case: 3D-printed (design by MAXDARKDOG .stl files in folder)
+
+Only for edjucational purpose
