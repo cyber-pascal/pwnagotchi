@@ -1,6 +1,6 @@
 # Pwnagotchi Build
 
-A hardware Pwnagotchi build for hands-on wireless security research and learning. **Educational purposes only.**
+A hardware Pwnagotchi build for hands-on wireless security research and learning. **Educational purposes only.** Used on my own home network and devices only.
 
 ![Pwnagotchi](Pwnagotchi.jpeg)
 
